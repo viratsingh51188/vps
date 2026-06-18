@@ -47,7 +47,7 @@ railway login
 ### 5. Clone Repository
 
 ```bash
-cd && rm -rf railway-vps && git clone https://github.com/viratsingh51188/vps.git && cd vps
+cd && rm -rf vps && git clone https://github.com/viratsingh51188/vps.git && cd vps
 ```
 
 ### 6. Create New Project
